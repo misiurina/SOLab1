@@ -1,0 +1,11 @@
+minFCFS: 4786
+maxFCFS: 5147
+
+minSJF: 3637
+maxSJF: 3680
+
+minWSJF: 4861
+maxWSJF: 4969
+
+minRR: 4515
+maxRR: 4699
