@@ -1,2 +1,2 @@
 # SOLab1
-Processors scheduling algorithms measures
+Processors scheduling algorithms measurements
